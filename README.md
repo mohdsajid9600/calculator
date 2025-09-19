@@ -30,10 +30,10 @@ Just open the `index.html` file in your browser to start using the calculator.
 
 ```
 calculator/
-├── index.html      # Main HTML file
-├── style.css       # Styles for the calculator
-├── script.js       # JavaScript logic
-└── README.md       # Project documentation
+├── index.html           # Main HTML file
+├── calculator.css       # Styles for the calculator
+├── calculator.js        # JavaScript logic
+└── README.md            # Project documentation
 ```
 ## Calculator Image : ![Calculator Screenshot](images/calculator.png)
 ## How It Works
